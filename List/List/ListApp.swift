@@ -11,7 +11,7 @@ import SwiftUI
 struct ListApp: App {
     var body: some Scene {
         WindowGroup {
-            ListWithSection()
+            ListDelete()
         }
     }
 }
