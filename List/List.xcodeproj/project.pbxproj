@@ -15,6 +15,8 @@
 		46CA4C572AFBFAD90046C3CD /* ListWithSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C562AFBFAD90046C3CD /* ListWithSection.swift */; };
 		46CA4C592AFC00110046C3CD /* ListDelete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C582AFC00110046C3CD /* ListDelete.swift */; };
 		46CA4C5B2AFC023D0046C3CD /* ListDelete2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C5A2AFC023D0046C3CD /* ListDelete2.swift */; };
+		46CA4C5D2AFC05F90046C3CD /* ListMove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C5C2AFC05F90046C3CD /* ListMove.swift */; };
+		46CA4C5F2AFC06D60046C3CD /* ListMove2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C5E2AFC06D60046C3CD /* ListMove2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		46CA4C562AFBFAD90046C3CD /* ListWithSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithSection.swift; sourceTree = "<group>"; };
 		46CA4C582AFC00110046C3CD /* ListDelete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDelete.swift; sourceTree = "<group>"; };
 		46CA4C5A2AFC023D0046C3CD /* ListDelete2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDelete2.swift; sourceTree = "<group>"; };
+		46CA4C5C2AFC05F90046C3CD /* ListMove.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListMove.swift; sourceTree = "<group>"; };
+		46CA4C5E2AFC06D60046C3CD /* ListMove2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListMove2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +69,8 @@
 				46CA4C562AFBFAD90046C3CD /* ListWithSection.swift */,
 				46CA4C582AFC00110046C3CD /* ListDelete.swift */,
 				46CA4C5A2AFC023D0046C3CD /* ListDelete2.swift */,
+				46CA4C5C2AFC05F90046C3CD /* ListMove.swift */,
+				46CA4C5E2AFC06D60046C3CD /* ListMove2.swift */,
 				46CA4C4A2AFAB2E80046C3CD /* Assets.xcassets */,
 				46CA4C4C2AFAB2E80046C3CD /* Preview Content */,
 			);
@@ -150,11 +156,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				46CA4C492AFAB2E50046C3CD /* ListBasic.swift in Sources */,
+				46CA4C5D2AFC05F90046C3CD /* ListMove.swift in Sources */,
 				46CA4C5B2AFC023D0046C3CD /* ListDelete2.swift in Sources */,
 				46CA4C572AFBFAD90046C3CD /* ListWithSection.swift in Sources */,
 				46CA4C592AFC00110046C3CD /* ListDelete.swift in Sources */,
 				46CA4C552AFAB56B0046C3CD /* ListObjc.swift in Sources */,
 				46CA4C472AFAB2E50046C3CD /* ListApp.swift in Sources */,
+				46CA4C5F2AFC06D60046C3CD /* ListMove2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
