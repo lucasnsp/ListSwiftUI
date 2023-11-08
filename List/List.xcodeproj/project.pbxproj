@@ -12,6 +12,7 @@
 		46CA4C4B2AFAB2E80046C3CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CA4C4A2AFAB2E80046C3CD /* Assets.xcassets */; };
 		46CA4C4E2AFAB2E80046C3CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46CA4C4D2AFAB2E80046C3CD /* Preview Assets.xcassets */; };
 		46CA4C552AFAB56B0046C3CD /* ListObjc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C542AFAB56B0046C3CD /* ListObjc.swift */; };
+		46CA4C572AFBFAD90046C3CD /* ListWithSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46CA4C562AFBFAD90046C3CD /* ListWithSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		46CA4C4A2AFAB2E80046C3CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46CA4C4D2AFAB2E80046C3CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		46CA4C542AFAB56B0046C3CD /* ListObjc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListObjc.swift; sourceTree = "<group>"; };
+		46CA4C562AFBFAD90046C3CD /* ListWithSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListWithSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				46CA4C462AFAB2E50046C3CD /* ListApp.swift */,
 				46CA4C482AFAB2E50046C3CD /* ListBasic.swift */,
 				46CA4C542AFAB56B0046C3CD /* ListObjc.swift */,
+				46CA4C562AFBFAD90046C3CD /* ListWithSection.swift */,
 				46CA4C4A2AFAB2E80046C3CD /* Assets.xcassets */,
 				46CA4C4C2AFAB2E80046C3CD /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				46CA4C492AFAB2E50046C3CD /* ListBasic.swift in Sources */,
+				46CA4C572AFBFAD90046C3CD /* ListWithSection.swift in Sources */,
 				46CA4C552AFAB56B0046C3CD /* ListObjc.swift in Sources */,
 				46CA4C472AFAB2E50046C3CD /* ListApp.swift in Sources */,
 			);
